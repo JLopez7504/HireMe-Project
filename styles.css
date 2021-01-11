@@ -1,0 +1,37 @@
+body {
+    background-color: #5cd2f2;
+}
+
+.name {
+    position: fixed;
+    top: -2%;
+    left: 2%;
+    width: 22%;
+    background: #EFF5B3;
+}
+
+.favoriteThingsToDo {
+    max-width: 600px;
+    padding-top: 50px;
+    padding-left: 500px;
+}
+
+.image {
+    float: left;
+    padding-top: 50px;
+    width: 470px;
+}
+
+.favoriteList {
+    max-width: 600px;
+    padding-left: 500px;
+}
+.cod{
+    font-family: 'Anton', sans-serif;
+}
+.gta{
+    font-family: 'Libre Baskerville', serif;
+}
+.fortnite{
+    font-family: 'Luckiest Guy', cursive;
+}
